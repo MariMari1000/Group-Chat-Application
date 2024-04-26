@@ -55,9 +55,7 @@ java Client
 
 <p>- <strong>Marijana Marinovic</strong>: <a href="https://github.com/marijana-marinovic">GitHub Profile</a></p>
 
-<h2>License</h2>
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 </body>
 </html>
